@@ -18,7 +18,6 @@ subscriptions model =
     Sub.none
 
 
-
 -- MAIN
 
 
